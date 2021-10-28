@@ -7,7 +7,7 @@ public class Main {
         int finalAccount = startAccount + toppedAccount2;
         int bonus;
 
-        if(toppedAccount > 1000) {
+        if(toppedAccount2 > 1000) {
             bonus = toppedAccount2 / bonusRuble;
         }
         else {
